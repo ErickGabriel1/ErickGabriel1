@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Erick Cardoso, tenho 20 anos e sou estudante de Engenharia de Software na UCB. Concluí o ensino médio no CEMIC, onde também obtive o técnico em Informática para Internet. Tenho grande interesse por desenvolvimento de software e busco constantemente aprimorar minhas habilidades por meio de projetos práticos e estudo contínuo.
+Me chamo Erick Cardoso, tenho 20 anos e sou estudante de Engenharia de Software na UCB. Possiuo curso Técnico em Informática para Internet. Tenho grande interesse por desenvolvimento de software e busco constantemente aprimorar minhas habilidades por meio de projetos práticos e estudo contínuo.
 
 <p align="left">
     <a href="https://github.com/ErickGabriel1?tab=repositories&sort=stargazers">
