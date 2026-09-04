@@ -5,14 +5,14 @@
 Me chamo Erick Cardoso, tenho 20 anos e sou estudante de Engenharia de Software na UCB. Possiuo curso Técnico em Informática para Internet. Tenho grande interesse por desenvolvimento de software e busco constantemente aprimorar minhas habilidades por meio de projetos práticos e estudo contínuo.
 
 <p align="left">
-    <a href="https://github.com/ErickGabriel1?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ErickCardoso1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ErickGabriel1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/ErickGabriel1?tab=followers">
+    <a href="https://github.com/ErickCardoso1?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -84,6 +84,6 @@ Me chamo Erick Cardoso, tenho 20 anos e sou estudante de Engenharia de Software 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGabriel1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCardoso1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
